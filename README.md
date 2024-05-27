@@ -9,7 +9,7 @@ npm install --save-dev "hardhat@^2.17.1" "@nomicfoundation/hardhat-toolbox@^3.0.
 touch .env
 npx hardhat init 
 ```
-Update package.json ether to "^5.4" then(ensuring the package.json is followed):
+Update package.json ether to "^6.6.2" then(ensuring the package.json is followed):
 
 ```npm i```
 
